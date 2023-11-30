@@ -1,0 +1,3 @@
+/home/vbtc/CLionProjects/libtestc++/cmake-build-debug/CMakeFiles/libtestc__.dir
+/home/vbtc/CLionProjects/libtestc++/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vbtc/CLionProjects/libtestc++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
