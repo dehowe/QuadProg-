@@ -1,0 +1,12 @@
+﻿  array.cpp
+  main.cpp
+  QuadProg++.cpp
+c:\users\kong\desktop\ito软件\quadprogtest\quadprogtest\quadprog++.cpp(201): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+  test.cpp
+c:\users\kong\desktop\ito软件\quadprogtest\quadprogtest\test.cpp(44): warning C4244: “初始化”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+  正在生成代码...
+  QuadProgTest.vcxproj -> C:\Users\KONG\Desktop\ITO软件\QuadProgTest\Debug\QuadProgTest.exe
